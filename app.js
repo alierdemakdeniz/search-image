@@ -19,6 +19,7 @@ function clear() {
     imageListWrapper.innerHTML=""   
 }
 function search(e){
+     imageListWrapper.innerHTML=""
     const value = searchInput.value.trim();
     
     
