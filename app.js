@@ -49,8 +49,6 @@ function addImageUI(url){
     img.setAttribute("src",`${url}`)
     img.setAttribute("height"," auto")
     img.setAttribute("width","auto")
-    // img.setAttribute("style","object-fit :cover")
-    // img.setAttribute("style","border-radius : 15px ")
     img.setAttribute("style", "filter:drop-shadow(2px 4px 6px black); object-fit : cover; border-radius:15px;")
     
     
