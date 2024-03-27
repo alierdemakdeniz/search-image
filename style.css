@@ -37,7 +37,9 @@ button {
     background-color: rgb(93, 79, 79);
     color: antiquewhite;
     border-radius: 15px;
-    border: none;
+    font-weight: 600;
+    
+
 
 }
 
